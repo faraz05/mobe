@@ -4,7 +4,7 @@
 <form action="exmp.php" method="POST">
 <table align="center" border="1" width="60%">
 <tr>
-<td> Name </td>
+<td> Name is mine </td>
 <td> <input type="text" placeholder="enter name" name="name"/> </td>
 </tr>
 <tr>
